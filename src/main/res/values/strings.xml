@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMPCC Vibe</string>
+    <string name="scan_button">Start Scan</string>
+    <string name="stop_button">Stop Scan</string>
+    <string name="paired_button">Paired Devices</string>
+    <string name="status_ready">Status: Ready</string>
+    <string name="bluetooth_unavailable">Bluetooth not available</string>
+    <string name="bluetooth_disabled">Bluetooth disabled</string>
+    <string name="scanning">Scanning for devices...</string>
+    <string name="scan_stopped">Scanning stopped</string>
+    <string name="permission_denied">Permissions denied</string>
+    <string name="available_devices">Available Devices:</string>
+</resources>
